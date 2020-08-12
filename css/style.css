@@ -1,0 +1,10 @@
+img {
+  border-radius: 5%;
+}
+.column {
+  float: left;
+  padding: 5px;
+	  }
+.head{
+	background: lightgreen;
+}
